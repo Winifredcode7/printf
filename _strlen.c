@@ -16,3 +16,4 @@ int _strlen(char *str)
 	}
 	return (i);
 }
+/* And this file too*/
